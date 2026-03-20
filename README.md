@@ -1,4 +1,4 @@
-# Customer Response Prediction
+# Smart-Cart-Clustering-System
 
 ## Problem Statement
 Predict whether a customer will respond to a marketing campaign.
